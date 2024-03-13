@@ -17,7 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'phisain', // Usually your GitHub org/user name.
   projectName: 'docsxaurus-example', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'develop',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
