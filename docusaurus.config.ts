@@ -8,16 +8,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://phisain.github.io',
+  url: 'https://.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docsxaurus-example',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'phisain', // Usually your GitHub org/user name.
   projectName: 'docsxaurus-example', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'develop',
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
